@@ -36,7 +36,7 @@ fe-sayur-segar/
 ### 1. Clone Repository
 
 ```bash
-  git clone https://github.com/fahrurrzl/fe-sayur-segar.git
+  git clone https://github.com/fariqnganjuk/fe-sayur-segar.git
   cd fe-sayur-segar
 ```
 
@@ -64,4 +64,3 @@ npm run dev
 
 ## 🌐 Live Demo
 
-[Sayur Segar](https://fe-sayur-segar.vercel.app/)
